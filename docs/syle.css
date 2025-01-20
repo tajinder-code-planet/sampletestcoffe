@@ -464,6 +464,14 @@
     }
 
 }
+@media (min-height:589px) and (max-width:420px){
+    .bgtop {
+        height: 84vh !important;
+    }
+    .or{
+        height: 84vh !important;
+    }
+}
 
 /* @media (max-height:770px){
     .bgtop {
